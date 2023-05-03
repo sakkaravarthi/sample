@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 // this is my first commit from android studio
+// this is the one  i am going to include the pic on right hand column
 void main() {
   runApp( MyApp());
 }
